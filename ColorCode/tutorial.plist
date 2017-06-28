@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Step 1</key>
+	<dict>
+		<key>Position 1</key>
+		<array>
+			<integer>1</integer>
+			<integer>2</integer>
+		</array>
+		<key>Position 2</key>
+		<array>
+			<integer>2</integer>
+			<integer>2</integer>
+		</array>
+	</dict>
+	<key>Step 2</key>
+	<dict>
+		<key>Position 1</key>
+		<array>
+			<integer>2</integer>
+			<integer>2</integer>
+		</array>
+		<key>Position 2</key>
+		<array>
+			<integer>2</integer>
+			<integer>1</integer>
+		</array>
+	</dict>
+	<key>Step 3</key>
+	<dict>
+		<key>Position 1</key>
+		<array>
+			<integer>2</integer>
+			<integer>2</integer>
+		</array>
+		<key>Position 2</key>
+		<array>
+			<integer>3</integer>
+			<integer>2</integer>
+		</array>
+	</dict>
+	<key>Step 4</key>
+	<dict>
+		<key>Position 1</key>
+		<array>
+			<integer>3</integer>
+			<integer>2</integer>
+		</array>
+		<key>Position 2</key>
+		<array>
+			<integer>3</integer>
+			<integer>3</integer>
+		</array>
+	</dict>
+</dict>
+</plist>
