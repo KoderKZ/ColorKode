@@ -13,6 +13,7 @@
 		0A4558B31D5A37A200718DFC /* ABLAX.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A4558B21D5A37A200718DFC /* ABLAX.ttf */; };
 		0A4AC21D1DFB687D0003173A /* explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0A4AC21C1DFB687C0003173A /* explosion.sks */; };
 		0A4AC2211DFB6C790003173A /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A4AC21F1DFB6C790003173A /* spark.png */; };
+		0A64D0DF2062A78600C9A96B /* particle.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A64D0DE2062A78600C9A96B /* particle.png */; };
 		0A6D5F511E25BB120035D6ED /* pointer.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A6D5F501E25BB120035D6ED /* pointer.png */; };
 		0A6D5F571E2D4DB40035D6ED /* leftArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A6D5F531E2D4DB40035D6ED /* leftArrow.png */; };
 		0A6D5F581E2D4DB40035D6ED /* rightArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A6D5F541E2D4DB40035D6ED /* rightArrow.png */; };
@@ -66,6 +67,7 @@
 		0A4558B21D5A37A200718DFC /* ABLAX.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ABLAX.ttf; sourceTree = "<group>"; };
 		0A4AC21C1DFB687C0003173A /* explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = explosion.sks; sourceTree = "<group>"; };
 		0A4AC21F1DFB6C790003173A /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		0A64D0DE2062A78600C9A96B /* particle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = particle.png; sourceTree = "<group>"; };
 		0A6D5F501E25BB120035D6ED /* pointer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pointer.png; sourceTree = "<group>"; };
 		0A6D5F531E2D4DB40035D6ED /* leftArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leftArrow.png; sourceTree = "<group>"; };
 		0A6D5F541E2D4DB40035D6ED /* rightArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rightArrow.png; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				0A83C12F1D4A40F300146D87 /* GameElements.swift */,
 				0A7F08171D48D7D800499AB1 /* GameScene.swift */,
 				0A4AC21C1DFB687C0003173A /* explosion.sks */,
+				0A64D0DE2062A78600C9A96B /* particle.png */,
 				0A4AC21F1DFB6C790003173A /* spark.png */,
 				0A7F08191D48D7D800499AB1 /* GameViewController.swift */,
 				0A7F081B1D48D7D800499AB1 /* Main.storyboard */,
@@ -329,6 +332,7 @@
 				0A6D5F511E25BB120035D6ED /* pointer.png in Resources */,
 				0A6D5F5D1E3044200035D6ED /* downArrow.png in Resources */,
 				0AC1295F1E6C84F4001734AC /* settingsPage.png in Resources */,
+				0A64D0DF2062A78600C9A96B /* particle.png in Resources */,
 				0AC129691E6C9EBD001734AC /* checkedBox.png in Resources */,
 				0A6D5F591E2D4DB40035D6ED /* upArrow.png in Resources */,
 				0A6D5F581E2D4DB40035D6ED /* rightArrow.png in Resources */,
